@@ -1,0 +1,25 @@
+.msgFatal{
+    font-size: 30px;
+    color: red;
+}
+
+.msgNotice{
+    font-size: 30px;
+    color: darkblue;
+}
+
+#dataBlock{
+    margin-top: 10px;
+}
+
+.info-results{
+    width: 600px;
+}
+
+.info-results, .info-results td{
+    border: 1px solid #333;
+}
+
+.info-results thead,.info-results tfoot{
+    background-color: #1ce5f8;
+}

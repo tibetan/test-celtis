@@ -1,0 +1,21 @@
+{
+  "default_language": "BG",
+  "database": {
+    "celtisLocalhost": {
+      "dsn": "mysql:host=localhost;port=3306;dbname=test-celtis;charset=UTF8",
+      "user": "root",
+      "password": "Tibetan#1305@"
+    }
+  },
+  "log": {
+    "path": "/home/yurii/Documents/logs",
+    "maxFiles": 30,
+    "level": "INFO",
+    "logger": {
+      "test": {
+        "maxFiles": 30,
+        "level": "INFO"
+      }
+    }
+  }
+}
