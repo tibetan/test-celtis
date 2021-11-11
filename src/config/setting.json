@@ -4,11 +4,11 @@
     "celtisLocalhost": {
       "dsn": "mysql:host=localhost;port=3306;dbname=test-celtis;charset=UTF8",
       "user": "root",
-      "password": "Tibetan#1305@"
+      "password": "root"
     }
   },
   "log": {
-    "path": "/home/yurii/Documents/logs",
+    "path": "",
     "maxFiles": 30,
     "level": "INFO",
     "logger": {
